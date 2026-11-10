@@ -1,5 +1,6 @@
 groq
-langchain
-pydantic
 python-dotenv
-flask
+pypdf
+python-docx
+openpyxl
+python-pptx
